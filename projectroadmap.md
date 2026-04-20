@@ -14,3 +14,4 @@
 - [ ] Collect real trend data
 - [ ] Improve filtering based on user input
 - [ ] Display better results
+- [ ] Add data visualization
