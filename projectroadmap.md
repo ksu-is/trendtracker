@@ -15,3 +15,4 @@
 - [ ] Improve filtering based on user input
 - [ ] Display better results
 - [ ] Add data visualization
+- [ ] Research APIs for trend data (Google Trends, social media)
