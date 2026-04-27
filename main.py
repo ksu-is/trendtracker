@@ -23,3 +23,4 @@ for topic in trending_topics:
 
 # Step 5: Show total
 print("\nTotal trends found:", len(trending_topics))
+print("Trend search complete!")
